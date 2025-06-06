@@ -1,4 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1749233203
-default_env.tres::Environment::-1::1749233191::0::1::::<><><>0<>0<><>::
-icon.png::CompressedTexture2D::3941418824990742620::1749232580::1749233205::1::::<><><>0<>0<>c834a45121b88e158fe71893fcbbe153<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+::res://::1749233366
+default_env.tres::Environment/Environment::-1::1749233191::0::1::::<><><>0<>0<><>::
+icon.png::CompressedTexture2D/CompressedTexture2D::7962573675238857447::1749232580::1749233283::1::::<><><>0<>0<>31dfb082dcd697bf2e63f688ae5bf792<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+::res://addons/::1749233335
+::res://addons/godot-git-plugin/::1749233336
+git_plugin.gdextension::GDExtension::3984053370464140678::1749233335::0::1::::<><><>0<>0<><>::
+plugin.cfg::TextFile::-1::1749233336::0::1::::<><><>0<>0<><>::
+THIRDPARTY.md::TextFile::-1::1749233336::0::1::::<><><>0<>0<><>::
+::res://addons/godot-git-plugin/linux/::1749233336
+::res://addons/godot-git-plugin/macos/::1749233336
+::res://addons/godot-git-plugin/win64/::1749233336
